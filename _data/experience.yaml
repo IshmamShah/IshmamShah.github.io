@@ -4,13 +4,13 @@ experiences:
   time: "Mar. 2019 - May. 2019"
   title: "Research Intern"
   subtitle: "Systems and Networking Research Group"
-  dsc: "AutoML"
+  dsc: "Hyperparameter Optimization and AutoML"
 
 
 - place: "Alibaba Group"
   time: "Jun. 2018 - Sept. 2018"
   title: "Research Intern"
   subtitle: "Search Business Department"
-  dsc: "Recommender"
+  dsc: "Combined with the Taobao user’s search query history and purchase history, recommend query for users."
 
 
