@@ -1,2 +1,2 @@
 # ahxt.github.io
-# ahxt.site
+ahxt.github.io
