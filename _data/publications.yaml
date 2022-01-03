@@ -1,6 +1,6 @@
 papers:
 
-  - title: ", G-Mixup: Graph Augmentation for Graph Classification."
+  - title: "G-Mixup: Graph Augmentation for Graph Classification."
     authors: "<b>Xiaotian Han</b>, Zhimeng Jiang, Ninghao Liu, Xia Hu"
     venue: "submitted to ICLR 2022"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
