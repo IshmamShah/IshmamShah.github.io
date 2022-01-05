@@ -1,7 +1,5 @@
 papers:
 
-
-
   - title: "G-Mixup: Graph Augmentation for Graph Classification."
     authors: "<b>Xiaotian Han</b>, Zhimeng Jiang, Ninghao Liu, Xia Hu"
     venue: "submitted to ICLR 2022"
@@ -27,7 +25,7 @@ papers:
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
     selected: y
     
-   - title: "AutoRec: An Automated Recommender System."
+  - title: "AutoRec: An Automated Recommender System."
     authors: "Ting-Hsiang Wang, Qingquan Song, <b>Xiaotian Han</b>, Zirui Liu, Jin Haifeng, Xia Hu"
     venue: "Recsys, 2020"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
@@ -39,7 +37,7 @@ papers:
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
     selected: y   
     
-   - title: "FlowScope: Spotting Money Laundering Based on Graphs."
+  - title: "FlowScope: Spotting Money Laundering Based on Graphs."
     authors: "Xiangfeng Li, Shenghua Liu, Zifeng Li, <b>Xiaotian Han</b>, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng"
     venue: "AAAI, 2020"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
@@ -51,7 +49,7 @@ papers:
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
     selected: y   
     
-   - title: "Embedding geographic information for anomalous trajectory detection."
+  - title: "Embedding geographic information for anomalous trajectory detection."
     authors: "Ding Xiao, Li Song, Ruijia Wang, <b>Xiaotian Han</b>, Yanan Cai, Chuan Shi,"
     venue: "World Wide Web, 2020"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
@@ -63,7 +61,7 @@ papers:
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
     selected: y   
     
-   - title: " Metapath-guided heterogeneous graph neural network for intent recommendation."
+  - title: " Metapath-guided heterogeneous graph neural network for intent recommendation."
     authors: "Shaohua Fan, Junxiong Zhu, <b>Xiaotian Han</b>, Chuan Shi, Linmei Hu, Biyu Ma, Yongliang Li,"
     venue: "KDD, 2019"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
@@ -75,7 +73,7 @@ papers:
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
     selected: y   
     
-   - title: "Deep collaborative filtering with multi-aspect information in heterogeneous networks."
+  - title: "Deep collaborative filtering with multi-aspect information in heterogeneous networks."
     authors: "Chuan Shi, <b>Xiaotian Han</b>, Li Song, Xiao Wang, Senzhang Wang, Junping Du, Philip, S Yu,"
     venue: "IEEE TKDE, 2019"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
