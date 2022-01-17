@@ -13,9 +13,9 @@ papers:
     selected: y   
 
 
-  - title: "Graph Representation Learning via Unsupervised Rate Reduction Maximization."
+  - title: "Geometric Graph Representation Learning via Maximizing Rate Reduction"
     authors: "<b>Xiaotian Han</b>, Zhimeng Jiang, Ninghao Liu, Qingquan Song, Jundong Li, Xia Hu"
-    venue: " submitted to The Web Conference 2022"
+    venue: "The Web Conference 2022"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
     # code: "https://github.com/ahxt/NeuACF"
     # blogpost: "/projects/2019_ScienceAdvances"
