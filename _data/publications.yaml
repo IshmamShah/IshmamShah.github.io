@@ -48,6 +48,17 @@ papers:
     # data: "projects/2019_MLDataset"
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
     #selected: y   
-    
+  
+  - title: "Subspace Search Variational Quantum Eigensolver"
+    #authors: "Xiangfeng Li, Shenghua Liu, Zifeng Li, <b>Xiaotian Han</b>, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng"
+    venue: "Pennylane Community Tutorial"
+    # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
+    code: "https://github.com/LegacYFTw/SSVQE"
+    blogpost: "https://pennylane.ai/qml/demos_community.html"
+    # pressrel: "/projects/2019_ScienceAdvancesPress"
+    # video: "/assets/projects/2019_SA/StoryBoard.m4v"
+    # data: "projects/2019_MLDataset"
+    #notebook: "https://github.com/LegacYFTw/SSVQE/blob/main/SSVQE_Tutorial.ipynb"
+    #selected: y   
 
     
