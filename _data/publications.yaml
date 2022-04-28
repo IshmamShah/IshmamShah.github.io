@@ -1,8 +1,8 @@
 papers:
 
-  - title: "G-Mixup: Graph Augmentation for Graph Classification."
-    authors: "<b>Xiaotian Han</b>, Zhimeng Jiang, Ninghao Liu, Xia Hu"
-    venue: "submitted to ICLR 2022"
+  - title: "On The Variational Perspectives To The Graph Isomorphism Problem"
+    #authors: "<b>Xiaotian Han</b>, Zhimeng Jiang, Ninghao Liu, Xia Hu"
+    #venue: "submitted to ICLR 2022"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
     # code: "https://github.com/ahxt/NeuACF"
     # blogpost: "/projects/2019_ScienceAdvances"
@@ -10,12 +10,12 @@ papers:
     # video: "/assets/projects/2019_SA/StoryBoard.m4v"
     # data: "projects/2019_MLDataset"
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
+    #selected: y   
 
 
   - title: "Geometric Graph Representation Learning via Maximizing Rate Reduction"
-    authors: "<b>Xiaotian Han</b>, Zhimeng Jiang, Ninghao Liu, Qingquan Song, Jundong Li, Xia Hu"
-    venue: "The Web Conference 2022"
+    #authors: "<b>Xiaotian Han</b>, Zhimeng Jiang, Ninghao Liu, Qingquan Song, Jundong Li, Xia Hu"
+    #venue: "The Web Conference 2022"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
     # code: "https://github.com/ahxt/NeuACF"
     # blogpost: "/projects/2019_ScienceAdvances"
@@ -23,35 +23,23 @@ papers:
     # video: "/assets/projects/2019_SA/StoryBoard.m4v"
     # data: "projects/2019_MLDataset"
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y
+    #selected: y
     
-  - title: "AutoRec: An Automated Recommender System."
-    authors: "Ting-Hsiang Wang, Qingquan Song, <b>Xiaotian Han</b>, Zirui Liu, Jin Haifeng, Xia Hu"
-    venue: "Recsys, 2020"
+  - title: "Qurzon: A Prototype for a Divide and Conquer Based Quantum Compiler"
+    #authors: "Ting-Hsiang Wang, Qingquan Song, <b>Xiaotian Han</b>, Zirui Liu, Jin Haifeng, Xia Hu"
+    #venue: "Recsys, 2020"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
-    code: "https://github.com/datamllab/AutoRec"
+    #code: "https://github.com/datamllab/AutoRec"
     # blogpost: "/projects/2019_ScienceAdvances"
     # pressrel: "/projects/2019_ScienceAdvancesPress"
     # video: "/assets/projects/2019_SA/StoryBoard.m4v"
     # data: "projects/2019_MLDataset"
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
+    #selected: y   
     
-  - title: "FlowScope: Spotting Money Laundering Based on Graphs."
-    authors: "Xiangfeng Li, Shenghua Liu, Zifeng Li, <b>Xiaotian Han</b>, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng"
-    venue: "AAAI, 2020"
-    # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
-    # code: "https://github.com/datamllab/AutoRec"
-    # blogpost: "/projects/2019_ScienceAdvances"
-    # pressrel: "/projects/2019_ScienceAdvancesPress"
-    # video: "/assets/projects/2019_SA/StoryBoard.m4v"
-    # data: "projects/2019_MLDataset"
-    # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
-    
-  - title: "Embedding geographic information for anomalous trajectory detection."
-    authors: "Ding Xiao, Li Song, Ruijia Wang, <b>Xiaotian Han</b>, Yanan Cai, Chuan Shi,"
-    venue: "World Wide Web, 2020"
+  - title: "Disordered Phase in Ising and Metastability in Cellular Potts Models Hint at Glassy Dynamics"
+    #authors: "Xiangfeng Li, Shenghua Liu, Zifeng Li, <b>Xiaotian Han</b>, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng"
+    #venue: "AAAI, 2020"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
     # code: "https://github.com/datamllab/AutoRec"
     # blogpost: "/projects/2019_ScienceAdvances"
@@ -59,66 +47,7 @@ papers:
     # video: "/assets/projects/2019_SA/StoryBoard.m4v"
     # data: "projects/2019_MLDataset"
     # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
+    #selected: y   
     
-  - title: " Metapath-guided heterogeneous graph neural network for intent recommendation."
-    authors: "Shaohua Fan, Junxiong Zhu, <b>Xiaotian Han</b>, Chuan Shi, Linmei Hu, Biyu Ma, Yongliang Li,"
-    venue: "KDD, 2019"
-    # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
-    # code: "https://github.com/datamllab/AutoRec"
-    # blogpost: "/projects/2019_ScienceAdvances"
-    # pressrel: "/projects/2019_ScienceAdvancesPress"
-    # video: "/assets/projects/2019_SA/StoryBoard.m4v"
-    # data: "projects/2019_MLDataset"
-    # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
-    
-  - title: "Deep collaborative filtering with multi-aspect information in heterogeneous networks."
-    authors: "Chuan Shi, <b>Xiaotian Han</b>, Li Song, Xiao Wang, Senzhang Wang, Junping Du, Philip, S Yu,"
-    venue: "IEEE TKDE, 2019"
-    # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
-    # code: "https://github.com/datamllab/AutoRec"
-    # blogpost: "/projects/2019_ScienceAdvances"
-    # pressrel: "/projects/2019_ScienceAdvancesPress"
-    # video: "/assets/projects/2019_SA/StoryBoard.m4v"
-    # data: "projects/2019_MLDataset"
-    # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
-    
-  - title: "Aspect-Level Deep Collaborative Filtering via Heterogeneous Information Networks."
-    authors: "<b>Xiaotian Han</b>, Chuan Shi, Senzhang Wang, S Yu Philip, Li Song"
-    venue: "IJCAI, 2018"
-    paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
-    code: "https://github.com/ahxt/NeuACF"
-    # blogpost: "/projects/2019_ScienceAdvances"
-    # pressrel: "/projects/2019_ScienceAdvancesPress"
-    # video: "/assets/projects/2019_SA/StoryBoard.m4v"
-    # data: "projects/2019_MLDataset"
-    # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
-
-  - title: "Representation learning with depth and breadth for recommendation using multi-view data."
-    authors: "<b>Xiaotian Han</b>, Chuan Shi, Lei Zheng, S Yu Philip, Jianxin Li, Yuanfu Lu"
-    venue: "APWeb-WAIM, 2018"
-    paper_pdf: "http://www.shichuan.org/doc/57.pdf"
-    # code: "https://github.com/ahxt/NeuACF"
-    # blogpost: "/projects/2019_ScienceAdvances"
-    # pressrel: "/projects/2019_ScienceAdvancesPress"
-    # video: "/assets/projects/2019_SA/StoryBoard.m4v"
-    # data: "projects/2019_MLDataset"
-    # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
-
-  - title: "Anomalous Trajectory Detection Using Recurrent Neural Network."
-    authors: "Li Song, Ruijia Wang, Ding Xiao, <b>Xiaotian Han</b>, Yanan Cai, Chuan Shi"
-    venue: "ADMA, 2018"
-    paper_pdf: "http://shichuan.org/doc/60.pdf"
-    # code: "https://github.com/ahxt/NeuACF"
-    # blogpost: "/projects/2019_ScienceAdvances"
-    # pressrel: "/projects/2019_ScienceAdvancesPress"
-    # video: "/assets/projects/2019_SA/StoryBoard.m4v"
-    # data: "projects/2019_MLDataset"
-    # notebook: "https://Helioml.github.io/HelioML/04/1/notebook"
-    selected: y   
 
     
