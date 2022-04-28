@@ -42,7 +42,7 @@ papers:
     venue: "Pennylane Community Tutorial"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
     code: "https://github.com/LegacYFTw/SSVQE"
-    blogpost: "https://pennylane.ai/qml/demos_community.html"
+    #blogpost: "https://pennylane.ai/qml/demos_community.html"
     # pressrel: "/projects/2019_ScienceAdvancesPress"
     # video: "/assets/projects/2019_SA/StoryBoard.m4v"
     # data: "projects/2019_MLDataset"
