@@ -17,7 +17,7 @@ papers:
     #authors: "Ting-Hsiang Wang, Qingquan Song, <b>Xiaotian Han</b>, Zirui Liu, Jin Haifeng, Xia Hu"
     #venue: "Recsys, 2020"
     # paper_pdf: "https://www.ijcai.org/proceedings/2018/0471.pdf"
-    #code: "https://github.com/datamllab/AutoRec"
+    code: "https://github.com/LegacYFTw/qurzon"
     # blogpost: "/projects/2019_ScienceAdvances"
     # pressrel: "/projects/2019_ScienceAdvancesPress"
     # video: "/assets/projects/2019_SA/StoryBoard.m4v"
